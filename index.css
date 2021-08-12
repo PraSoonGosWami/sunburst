@@ -1,0 +1,12 @@
+.sunburst-viz .text-contour {
+  stroke: none;
+}
+.sunburst-viz text {
+  font-size: 16px;
+  fill: white;
+}
+
+.sunburst-viz svg {
+  width: 100vw;
+  max-height: 90vh;
+}
